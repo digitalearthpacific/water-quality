@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "quarter_grids",
+"name": "eighth_grids",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::8859" } },
 "features": [
 { "type": "Feature", "properties": { "level_1": 16, "GID_0": "FJI", "COUNTRY": "Fiji", "index": 1, "uuid": "FJI1", "quarter": "Q2", "quid": "FJI1Q1_16", "index_right": 0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2897136.745383590459824, -2683727.566544769331813 ], [ 2897136.745383590459824, -2658691.922916142269969 ], [ 2875317.062729248777032, -2658691.922916142269969 ], [ 2875317.062729248777032, -2683727.566544769331813 ], [ 2897136.745383590459824, -2683727.566544769331813 ] ] ] } },
